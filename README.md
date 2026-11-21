@@ -38,4 +38,5 @@ Final model (A4-T, chosen by validation accuracy before test evaluation): test a
 Single-seed architecture rankings are provisional. See the report for caveats.
 
 Code repository: https://github.com/BushraSh1122/dl-assignment-2
+
 Commit hash: 7afcbe9508e85304a159b72f193fe9474105e940
